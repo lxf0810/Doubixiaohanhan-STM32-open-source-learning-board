@@ -1,0 +1,2 @@
+# Doubixiaohanhan-STM32-open-source-learning-board
+逗比小憨憨STM32开源学习板配置两个STM32F103系列的单片机，主要用于零基础学习STM32。该PCB可直接加工，所需元器件见原理图最后一页
